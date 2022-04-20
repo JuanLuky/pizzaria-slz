@@ -408,6 +408,7 @@ h1 {
   }
   .menu-closer {
     display: block;
+    margin-bottom: 30px;
   }
 
   .pizzaWindowArea {
